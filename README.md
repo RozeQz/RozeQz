@@ -16,9 +16,9 @@
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)]()
 [![Ruby on Rils](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white)]()
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)]()
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?logo=c-sharp&logoColor=white)]()
 [![Golang](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)]()
 [![Postgres](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)]()
-[![Qt](https://img.shields.io/badge/Qt-%23217346.svg?logo=Qt&logoColor=white)]()
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)]()
 <!-- [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)]() -->
 
