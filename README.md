@@ -3,7 +3,7 @@
 <h3 align="center">ICS-6 "Computer Systems, Complexes and Networks" student from BMSTU, Russia</h3>
 
 
-- 🌱 I’m currently learning assembler and golang
+- 🌱 I’m currently learning python and java
 - 📫 How to reach me: liza.roz@yandex.ru or rozeqzzz@gmail.com
 
 
